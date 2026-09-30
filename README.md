@@ -52,8 +52,4 @@ Touchdowns, the current holder, and how long they have held it are saved to `foo
 
 ___
 
-###### Mirrors for this repository: [acid.vegas](https://git.acid.vegas/ircfootball) • [SuperNETs](https://git.supernets.org/acidvegas/ircfootball) • [GitHub](https://github.com/acidvegas/ircfootball) • [GitLab](https://gitlab.com/acidvegas/ircfootball) • [Codeberg](https://codeberg.org/acidvegas/ircfootball)
-
----
-
 ###### Mirrors: [SuperNETs](https://git.supernets.org/acidvegas/) • [GitHub](https://github.com/acidvegas/) • [GitLab](https://gitlab.com/acidvegas/) • [Codeberg](https://codeberg.org/acidvegas/)
