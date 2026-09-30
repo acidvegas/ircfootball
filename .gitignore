@@ -1,0 +1,5 @@
+# IRC Football - Developed by acidvegas in Python (https://git.acid.vegas/ircfootball)
+# ircfootball/.gitignore
+
+football.json
+football_password.txt
